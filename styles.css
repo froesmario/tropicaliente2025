@@ -140,7 +140,6 @@ h2 {
 .form-control {
     background-color: #F1EDEF;
 }
-
 .menu-acessibilidade{
     position: fixed;
     top:2rem;
@@ -151,6 +150,8 @@ h2 {
     transform: rotate(-90deg);
     transform-origin: right center;
 }
+
+………
 
 .opcoes-acessibilidade{
     margin-top:10px;
@@ -164,4 +165,7 @@ h2 {
 .apresenta-lista{
     display: none;
 }
+
+
+
 
